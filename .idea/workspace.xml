@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e561d51-0ef3-4c67-bcf5-32abe0b58cbb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog/blog-img-1.jpg" afterPath="$PROJECT_DIR$/images/blog/blog-img-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog/blog-img-2.jpg" afterPath="$PROJECT_DIR$/images/blog/blog-img-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog/blog-img-3.jpg" afterPath="$PROJECT_DIR$/images/blog/blog-img-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog/blog-img-4.jpg" afterPath="$PROJECT_DIR$/images/blog/blog-img-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog/blog-img-5.jpg" afterPath="$PROJECT_DIR$/images/blog/blog-img-5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog/blog-img-6.jpg" afterPath="$PROJECT_DIR$/images/blog/blog-img-6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slider/slider-img-1.jpg" afterPath="$PROJECT_DIR$/images/slider/slider-img-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slider/slider-img-2.jpg" afterPath="$PROJECT_DIR$/images/slider/slider-img-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slider/slider-img-3.jpg" afterPath="$PROJECT_DIR$/images/slider/slider-img-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slider/slider-img-4.jpg" afterPath="$PROJECT_DIR$/images/slider/slider-img-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="8e561d51-0ef3-4c67-bcf5-32abe0b58cbb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -207,18 +194,18 @@
       <workItem from="1490196368008" duration="2919000" />
       <workItem from="1490245415063" duration="2933000" />
       <workItem from="1490265177220" duration="3704000" />
-      <workItem from="1490319483720" duration="5000" />
+      <workItem from="1490319483720" duration="552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9561000" />
+    <option name="totallyTimeSpent" value="10108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1400" height="797" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18857142" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18857142" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
