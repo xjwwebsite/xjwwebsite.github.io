@@ -126,6 +126,10 @@ a:active {
 #hero-area {
   position: relative;
 }
+#hero-area .img-responsive {
+  width: 100%;
+  height: 175px;
+}
 #hero-area:before {
   content: "";
   position: absolute;

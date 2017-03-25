@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e561d51-0ef3-4c67-bcf5-32abe0b58cbb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photo/photo-1.jpg" afterPath="$PROJECT_DIR$/images/photo/photo-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photo/photo-2.jpg" afterPath="$PROJECT_DIR$/images/photo/photo-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photo/photo-3.jpg" afterPath="$PROJECT_DIR$/images/photo/photo-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photo/photo-4.jpg" afterPath="$PROJECT_DIR$/images/photo/photo-4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog/blog-bg.jpg" afterPath="$PROJECT_DIR$/images/blog/blog-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/subscribe-bg.jpg" afterPath="$PROJECT_DIR$/images/subscribe-bg.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,8 +30,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3961">
-              <caret line="474" column="36" lean-forward="true" selection-start-line="474" selection-start-column="36" selection-end-line="474" selection-end-column="36" />
+            <state relative-caret-position="6510">
+              <caret line="481" column="78" lean-forward="false" selection-start-line="481" selection-start-column="78" selection-end-line="481" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="130" column="16" lean-forward="false" selection-start-line="130" selection-start-column="16" selection-end-line="130" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -45,6 +54,10 @@
       <find>Restaurant</find>
       <find>home</find>
       <find>more</find>
+      <find>header</find>
+      <find>hero-area</find>
+      <find>befo</find>
+      <find>collapse navbar-collapse</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -53,6 +66,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -112,6 +126,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xjwwebsite.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xjwwebsite.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -203,12 +231,12 @@
       <workItem from="1490265177220" duration="3704000" />
       <workItem from="1490319483720" duration="1403000" />
       <workItem from="1490351689637" duration="319000" />
-      <workItem from="1490359148625" duration="811000" />
+      <workItem from="1490359148625" duration="3465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12089000" />
+    <option name="totallyTimeSpent" value="14743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="23" width="1400" height="797" extended-state="0" />
@@ -300,13 +328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/min/main.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -354,10 +375,18 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="130" column="16" lean-forward="false" selection-start-line="130" selection-start-column="16" selection-end-line="130" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3961">
-          <caret line="474" column="36" lean-forward="true" selection-start-line="474" selection-start-column="36" selection-end-line="474" selection-end-column="36" />
+        <state relative-caret-position="6510">
+          <caret line="481" column="78" lean-forward="false" selection-start-line="481" selection-start-column="78" selection-end-line="481" selection-end-column="78" />
           <folding />
         </state>
       </provider>
