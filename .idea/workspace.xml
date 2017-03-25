@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e561d51-0ef3-4c67-bcf5-32abe0b58cbb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog/blog-img-3.jpg" afterPath="$PROJECT_DIR$/images/blog/blog-img-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slider/slider-img-3.jpg" afterPath="$PROJECT_DIR$/images/slider/slider-img-3.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -27,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="81" column="31" lean-forward="true" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
+            <state relative-caret-position="450">
+              <caret line="182" column="139" lean-forward="false" selection-start-line="182" selection-start-column="139" selection-end-line="182" selection-end-column="139" />
               <folding />
             </state>
           </provider>
@@ -65,7 +67,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
+    <option name="x" value="-135" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="797" />
@@ -88,6 +90,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -131,7 +134,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,15 +222,16 @@
       <workItem from="1490351689637" duration="319000" />
       <workItem from="1490359148625" duration="3529000" />
       <workItem from="1490415367073" duration="59000" />
-      <workItem from="1490441761088" duration="140000" />
+      <workItem from="1490441761088" duration="524000" />
+      <workItem from="1490446864063" duration="1775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15006000" />
+    <option name="totallyTimeSpent" value="17165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="23" width="1400" height="797" extended-state="0" />
+    <frame x="-135" y="23" width="1400" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18857142" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -260,6 +263,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -396,8 +407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="81" column="31" lean-forward="true" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
+        <state relative-caret-position="450">
+          <caret line="182" column="139" lean-forward="false" selection-start-line="182" selection-start-column="139" selection-end-line="182" selection-end-column="139" />
           <folding />
         </state>
       </provider>
